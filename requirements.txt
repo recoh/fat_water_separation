@@ -1,0 +1,5 @@
+nibabel==4.0.2
+numpy==1.21.6
+packaging==23.2
+torch==1.13.1
+typing-extensions==4.7.1
