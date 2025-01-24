@@ -2,7 +2,7 @@
 
 To use, clone the repository, install the environment and run the following commands. 
 
-EDIT: The model can be found here https://www.dropbox.com/scl/fi/17hjdyq2fsf2u74di9msg/fat_water_separation_model.pth?rlkey=wadss2nnxlytwki676wgqsk0m&st=1xl7nmwt&dl=0 (apologies there were some storage issues and the model file stopped working)
+EDIT: The model can be found here https://www.dropbox.com/scl/fi/17hjdyq2fsf2u74di9msg/fat_water_separation_model.pth?rlkey=wadss2nnxlytwki676wgqsk0m&st=1xl7nmwt&dl=0 (apologies there were some storage issues and the model file stopped working) 
 ```bash
 cd fat_water_separation
 python perform_fat_water_separation.py fat_water_separation_model.pth ip_path op_path
